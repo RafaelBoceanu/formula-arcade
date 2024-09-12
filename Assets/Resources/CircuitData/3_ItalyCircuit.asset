@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7375a447616f6de478387c68c97d53af, type: 3}
+  m_Name: 3_ItalyCircuit
+  m_EditorClassIdentifier: 
+  circuitUniqueID: 2
+  flagUISprite: {fileID: 21300000, guid: 2dff0ca60cb7ec945bdc2c009ec8578a, type: 3}
+  circuitPrefab: {fileID: 2503919773465271030, guid: 5de03ab735af12440b0bf5904b47088f, type: 3}
